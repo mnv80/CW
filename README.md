@@ -1,5 +1,4 @@
 # CW
-Ascii to Morse Code
 
 CW Library for Arduino
 
